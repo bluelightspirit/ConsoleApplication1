@@ -1,2 +1,2 @@
 # ConsoleApplication1
-Refer to [here](https://github.com/bluelightspirit/stocksim) as this repository was renamed
+Refer to [here](https://github.com/bluelightspirit/stocksim) as the Stock Market Simulator (originally ConsoleApplication1) repository was renamed
